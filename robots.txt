@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /webmaster/
+
+Sitemap: https://www.marginsystem.com/sitemap.xml

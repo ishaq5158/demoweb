@@ -27,6 +27,7 @@ body {
 
 .hero a {
     color: #ffffff;
+    font-size: 6px;
     text-decoration: underline;
     display: inline-flex;
     align-items: center;

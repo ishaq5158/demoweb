@@ -1,0 +1,4 @@
+All content must be organized by year.
+
+Each year has its own folder (e.g., 1998, 1999).
+Store all publications inside their respective year directory.

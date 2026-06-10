@@ -1,1 +1,1 @@
-# The Margin System Company
+# Margin System

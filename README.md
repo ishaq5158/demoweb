@@ -1,2 +1,2 @@
 # Margin System Corporation
-# Contact@MarginSystem.com
+# contact@marginsystem.com

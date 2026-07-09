@@ -1,3 +1,2 @@
-# The Margin System Company
-# Margin System Finance Corp.
+# Margin System Corporation
 # Contact@MarginSystem.com
